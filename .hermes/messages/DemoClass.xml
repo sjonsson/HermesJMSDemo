@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content>
+   <entry type="3">
+      <objectMessage JMSDeliveryMode="2" JMSDestination="DemoJMSServer/JMSSystemModule!DemoQueue" JMSExpiration="0" JMSMessageID="ID:&lt;195454.1407248801125.0>" JMSPriority="4" JMSRedelivered="false" JMSTimestamp="1407248801125" fromQueue="true">
+         <headerProperty name="messageCount" value="0" type="java.lang.Integer"/>
+         <object>rO0ABXNyAB5jb20uc2pvbnNzb24uaGVybWVzLkhlcm1lc0RlbW88gayvHWKaxgIAAkwAA2JhcnQAEkxqYXZhL2xhbmcvU3RyaW5nO0wAA2Zvb3EAfgABeHB0AAVSb2Nrc3QABkhlcm1lcw==</object>
+      </objectMessage>
+   </entry>
+</content>
