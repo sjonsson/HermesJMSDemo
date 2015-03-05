@@ -17,7 +17,7 @@
 //
 // Project home page: www.source-code.biz/base64coder/java
 
-package com.sjonsson.hermes;
+package biz.source_code.base64Coder;
 
 /**
 * A Base64 encoder/decoder.

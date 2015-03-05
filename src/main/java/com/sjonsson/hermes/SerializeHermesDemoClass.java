@@ -1,9 +1,11 @@
 package com.sjonsson.hermes;
 
+import biz.source_code.base64Coder.Base64Coder;
 import java.io.*;
 
 /**
- * Class used to create an instance of HermesDemo class, serialize it and write it out as a Base64 string.
+ * Class used to create an instance of HermesDemo class, serialize it and write 
+ * it out as a Base64 string.
  * 
  * @author Stan Jonsson
  */
